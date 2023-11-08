@@ -2,11 +2,11 @@
   "lives": [
     {
       "name": "::江苏移动",
-      "url": "ipv6_js_mobile.m3u",
+      "url": "./ipv6_js_mobile.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1,
-	    "boot": true
+	"boot": true
     },
     {
       "name": "::小米线路",
