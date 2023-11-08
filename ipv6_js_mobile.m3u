@@ -109,12 +109,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333
 http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="" group-title="港台",中天新闻
-https://gh-proxy.com/https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="" group-title="港台",中天新闻
-https://gh-proxy.com/https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻2.m3u8
-#EXTINF:-1 tvg-id="TVBS 新闻" tvg-name="TVBS 新闻" tvg-logo="" group-title="港台",TVBS 新闻
-https://gh-proxy.com/https://raw.githubusercontent.com/lem85930/utlive/YTlive/TVBS.m3u8
 
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227638/index.m3u8?blog.ntnas.top
