@@ -7,12 +7,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1,
 	"boot": true
-    },
-    {
-      "name": "::小米线路",
-      "url": "http://xhww.fun:63/小米/lives/live2.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
 }
