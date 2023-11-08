@@ -94,8 +94,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
-#EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="其他",纯享4K
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16-4K
@@ -231,9 +229,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/32212278
 #EXTINF:-1,tvg-id="常州都市" tvg-name="常州都市" tvg-logo="https://epg.112114.xyz/logo/常州都市.png" group-title="常州",常州都市
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8?blog.ntnas.top
 
+#EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="其他",纯享4K
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1,tvg-id="未知" tvg-name="未知" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="其他",未知
 http://[2409:8087:2004:20:2800:0:df6e:ec11]/wh7f454c46tw3939513710_-75405980/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?icpid=3&amp;RTS=1678666137&amp;from=40&amp;popid=40&amp;hms_devid=2153&amp;prioritypopid=40&amp;vqe=3
-
 #EXTINF:-1,tvg-id="风景-8K-30P-HIGH" tvg-name="风景-8K-30P-HIGH" tvg-logo="https://epg.112114.xyz/logo/风景8K30PHIGH.png" group-title="其他",风景-8K-30P-HIGH
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&amp;RTS=1674188624&amp;from=40&amp;popid=40&amp;hms_devid=2041&amp;prioritypopid=40&amp;vqe=3
 #EXTINF:-1,tvg-id="风景-8K-30P-HIGH" tvg-name="风景-8K-30P-HIGH" tvg-logo="https://epg.112114.xyz/logo/风景8K30PHIGH.png" group-title="其他",风景-8K-30P-HIGH
