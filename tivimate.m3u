@@ -269,5 +269,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212276
 #EXTINF:-1,tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://epg.112114.xyz/logo/NEWTV炫舞未来.png" group-title="NEWTV",NEWTV炫舞未来
 http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3833147877_659161399/ott.mobaibox.com/PLTV/4/224/3221227475/index.m3u8?icpid=4&amp;RTS=1663234213&amp;from=40&amp;popid=40&amp;hms_devid=2037&amp;prioritypopid=40&amp;vqe=3
 
-#EXTINF:-1 ,tvg-id="骄阳剧场" tvg-name="骄阳剧场" group-title="测试",骄阳剧场
+
+#EXTINF:-1 ,骄阳剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227638/index.m3u8 
