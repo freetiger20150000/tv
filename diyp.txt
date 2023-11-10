@@ -10,6 +10,26 @@ CCTV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/423303
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 
 江苏移动,#genre#
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227739/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227641/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221226316/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221225530/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227494/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221228146/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227644/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221228049/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221228075/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227462/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227634/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227431/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221228213/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221228149/index.m3u8
+CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
+
 8K测试 48M4320,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
