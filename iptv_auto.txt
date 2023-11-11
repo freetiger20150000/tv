@@ -2,7 +2,7 @@
   "lives": [
     {
       "name": "::江苏移动",
-      "url": "./ipv6_js_mobile.m3u",
+      "url": "./tv_kodi.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1,
@@ -10,3 +10,4 @@
     }
   ]
 }
+tv_kodi
