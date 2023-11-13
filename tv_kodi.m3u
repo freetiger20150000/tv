@@ -43,12 +43,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333
 http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="港 台",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1,tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港 台",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8?$1920x1080
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="港 台",中天新闻
-http://49.235.110.121:9090/898/peda/twjd.php?id=40
-#EXTINF:-1,tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/三立新闻.png" group-title="港 台",三立新闻
-http://49.235.110.121:9090/898/peda/twjd.php?id=42
+http://211.72.65.236:8541/.m3u8
 
 #EXTINF:-1,tvg-id="上海卫视" tvg-name="上海卫视" tvg-logo="https://live.fanmingming.com/tv/上海卫视.png" group-title="卫 视",上海卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221227597/index.m3u8?blog.ntnas.top
@@ -153,7 +149,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1,tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NewTV精品体育.png" group-title="体 育",NewTV精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw520038825_-1252386603/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8?icpid=3&RTS=1674380635&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体 育",五星体育
-https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 #EXTINF:-1,tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://live.fanmingming.com/tv/咪咕24小时体育.png" group-title="体 育",咪咕24小时体育
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
 
@@ -186,8 +182,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3005294665_-433598957/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&amp;RTS=1668606389&amp;from=40&amp;popid=40&amp;hms_devid=2039&amp;prioritypopid=40&amp;vqe=3
 #EXTINF:-1,tvg-id="SuperUHD 8K" tvg-name="SuperUHD 8K" tvg-logo="https://live.fanmingming.com/tv/SuperUHD 8K.png" group-title="4K & 8K",SuperUHD 8K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/PLTV/4/224/3221228132/index.m3u8?icpid=4&amp;RTS=1663233949&amp;from=40&amp;popid=40&amp;hms_devid=2041&amp;prioritypopid=40&amp;vqe=3
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="4K & 8K",五星体育
-https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1,tvg-id="垫播江苏卫视" tvg-name="垫播江苏卫视" tvg-logo="https://live.fanmingming.com/tv/垫播江苏卫视.png" group-title="4K & 8K",垫播江苏卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw361321201_34077105/ott.mobaibox.com/PLTV/3/224/3221227896/index.m3u8?icpid=3&RTS=1674380476&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="江苏8K" tvg-name="江苏8K" tvg-logo="https://live.fanmingming.com/tv/江苏8K.png" group-title="4K & 8K",江苏8K
