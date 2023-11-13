@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" 
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央 视",CCTV1
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1750297731_174117004/ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8?icpid=3&RTS=1674386160&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
@@ -97,8 +97,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1754072820_1199010569
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫 视",三沙卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw1536712487_1033271394/ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8?icpid=3&amp;RTS=1674385947&amp;from=40&amp;popid=40&amp;hms_devid=2290&amp;prioritypopid=40&amp;vqe=3
 
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="江 苏",江苏卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1546620848_1199323777/ott.mobaibox.com/PLTV/3/224/3221227561/index.m3u8?icpid=3&RTS=1674385957&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 
 #EXTINF:-1,tvg-id="常州公共" tvg-name="常州公共" tvg-logo="https://live.fanmingming.com/tv/常州公共.png" group-title="常 州",常州公共
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4212693148_669088627/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8?icpid=3&amp;RTS=1663019844&amp;from=40&amp;popid=40&amp;hms_devid=2112&amp;prioritypopid=40&amp;vqe=3
