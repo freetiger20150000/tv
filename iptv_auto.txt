@@ -7,6 +7,14 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1,
 	"boot": true
+    },
+    {
+      "name": "::江苏移动999",
+      "url": "./tv_kodi.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 1,
+	"boot": true
     }
   ]
 }
