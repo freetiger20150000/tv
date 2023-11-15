@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channel id="4K综艺">
-		<display-name lang="zh">4K综艺_test</display-name>
+		<display-name lang="zh">4K综艺</display-name>
 	</channel>
 	<programme channel="4K综艺" start="20231115000000 +0800" stop="20231115004700 +0800">
 		<title lang="zh">（4K）我最爱的女人们20190713</title>
@@ -22,7 +22,7 @@
 	</programme>
 	
 <channel id="CCTV1">
-		<display-name lang="zh">CCTV1_test</display-name>
+		<display-name lang="zh">CCTV1</display-name>
 	</channel>
 	<programme channel="CCTV1" start="20231115005500 +0800" stop="20231115011500 +0800">
 		<title lang="zh">人口-2023-45</title>
@@ -137,7 +137,7 @@
 	</programme>
 	
 <channel id="CCTV2">
-		<display-name lang="zh">CCTV2_test</display-name>
+		<display-name lang="zh">CCTV2</display-name>
 	</channel>
 	<programme channel="CCTV2" start="20231115004500 +0800" stop="20231115014500 +0800">
 		<title lang="zh">一槌定音-2023-46</title>
