@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channel id="4K综艺">
-		channel="4K综艺_test"
+		<display-name lang="zh">4K综艺_test</display-name>
 	</channel>
 	<programme channel="4K综艺" start="20231115000000 +0800" stop="20231115004700 +0800">
 		<title lang="zh">（4K）我最爱的女人们20190713</title>
@@ -22,7 +22,7 @@
 	</programme>
 	
 <channel id="CCTV1">
-		channel="CCTV1_test"
+		<display-name lang="zh">CCTV1_test</display-name>
 	</channel>
 	<programme channel="CCTV1" start="20231115005500 +0800" stop="20231115011500 +0800">
 		<title lang="zh">人口-2023-45</title>
@@ -134,5 +134,120 @@
 	</programme>
 	<programme channel="CCTV1" start="20231115231100 +0800" stop="20231115235900 +0800">
 		<title lang="zh">山水间的家（第二季）-9</title>
+	</programme>
+	
+<channel id="CCTV2">
+		<display-name lang="zh">CCTV2_test</display-name>
+	</channel>
+	<programme channel="CCTV2" start="20231115004500 +0800" stop="20231115014500 +0800">
+		<title lang="zh">一槌定音-2023-46</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115014500 +0800" stop="20231115023000 +0800">
+		<title lang="zh">2022精品财经纪录-中国传统建筑的智慧-10</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115023000 +0800" stop="20231115023600 +0800">
+		<title lang="zh">周末特供2021-航拍中国第二季5-6分版</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115023600 +0800" stop="20231115033400 +0800">
+		<title lang="zh">职场健康课-2023-45</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115033400 +0800" stop="20231115043200 +0800">
+		<title lang="zh">欢乐大猜想-2023-44</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115043200 +0800" stop="20231115050100 +0800">
+		<title lang="zh">回家吃饭-2023-267</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115050100 +0800" stop="20231115053100 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115053100 +0800" stop="20231115055900 +0800">
+		<title lang="zh">生财有道-2023-11-14</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115055900 +0800" stop="20231115070000 +0800">
+		<title lang="zh">经济信息联播</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115070000 +0800" stop="20231115090000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115090000 +0800" stop="20231115100000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115100000 +0800" stop="20231115103000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115103000 +0800" stop="20231115110000 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115110000 +0800" stop="20231115113000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115113000 +0800" stop="20231115114400 +0800">
+		<title lang="zh">周末特供2023-1301</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115114400 +0800" stop="20231115120000 +0800">
+		<title lang="zh">周末特供2023-1302</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115120000 +0800" stop="20231115130000 +0800">
+		<title lang="zh">天下财经</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115130000 +0800" stop="20231115133100 +0800">
+		<title lang="zh">周末特供2023-智造中国1</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115133100 +0800" stop="20231115140000 +0800">
+		<title lang="zh">回家吃饭-2023-267</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115140000 +0800" stop="20231115143000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115143000 +0800" stop="20231115150000 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115150000 +0800" stop="20231115153000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115153000 +0800" stop="20231115160000 +0800">
+		<title lang="zh">生财有道-2023-11-14</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115160000 +0800" stop="20231115170000 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115170000 +0800" stop="20231115173200 +0800">
+		<title lang="zh">正点财经</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115173200 +0800" stop="20231115175000 +0800">
+		<title lang="zh">周末特供2023-冀味儿第二季2-18分钟</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115175000 +0800" stop="20231115183000 +0800">
+		<title lang="zh">2022精品财经纪录-老广的味道第七季-4</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115183000 +0800" stop="20231115190000 +0800">
+		<title lang="zh">回家吃饭-2023-268</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115190000 +0800" stop="20231115193000 +0800">
+		<title lang="zh">生财有道-2023-11-15</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115193000 +0800" stop="20231115200000 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115200000 +0800" stop="20231115203000 +0800">
+		<title lang="zh">经济半小时</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115203000 +0800" stop="20231115213000 +0800">
+		<title lang="zh">经济信息联播</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115213000 +0800" stop="20231115215500 +0800">
+		<title lang="zh">央视财经评论-2023-11-15</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115215500 +0800" stop="20231115215800 +0800">
+		<title lang="zh">2023中国福利彩票公益开奖-238</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115215800 +0800" stop="20231115223300 +0800">
+		<title lang="zh">2021精品财经纪录-从长安到罗马-7</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115223300 +0800" stop="20231115233500 +0800">
+		<title lang="zh">职场健康课-2023-45</title>
+	</programme>
+	<programme channel="CCTV2" start="20231115233500 +0800" stop="20231115235900 +0800">
+		<title lang="zh">经济半小时</title>
 	</programme>
 	
