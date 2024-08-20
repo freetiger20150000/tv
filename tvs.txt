@@ -139,6 +139,12 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8
 蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8
 港 台,#genre#
+凤凰中文,http://124.230.56.165:55555/udp/239.76.253.135:9000
+凤凰资讯,http://124.230.56.165:55555/udp/239.76.253.134:9000
+凤凰中文,http://223.11.152.223:7777/udp/239.1.1.126:8126
+凤凰资讯,http://223.11.152.223:7777/udp/239.1.1.127:8127
+凤凰中文,http://118.114.98.8:4022/udp/239.93.0.162:2192
+凤凰资讯,http://118.114.98.8:4022/udp/239.93.0.118:2191
 凤凰卫视,http://103.95.24.37:880/fhws.m3u8
 凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰卫视,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
@@ -156,3 +162,4 @@ TVBS 新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 三立新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+nan,#genre#
