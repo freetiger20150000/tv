@@ -665,5 +665,5 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 #EXTINF:-1 tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://live.fanmingming.com/tv/内蒙古少儿.png" group-title="其 他",内蒙古少儿
 https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://live.fanmingming.com/tv/三立新聞.png" group-title="其 他",三立新聞
+#EXTINF:-1 tvg-id="三立新闻台" tvg-name="三立新闻" tvg-logo="https://live.fanmingming.com/tv/三立新闻台.png" group-title="其 他",三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
