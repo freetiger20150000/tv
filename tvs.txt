@@ -598,6 +598,254 @@ NEWTV金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 咪咕直播11,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕直播12,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226472/index.m3u8
 咪咕直播12,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+
+•咪咕「甘肃」,#genre#
+
+咪咕体育6136,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226136/1.m3u8
+咪咕体育6188,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226188/1.m3u8
+咪咕体育6190,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226190/1.m3u8
+咪咕体育6192,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226192/1.m3u8
+咪咕体育6194,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226194/1.m3u8
+咪咕体育6196,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226196/1.m3u8
+咪咕体育6215,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226215/1.m3u8
+咪咕体育6217,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226217/1.m3u8
+咪咕体育6219,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226219/1.m3u8
+咪咕体育6221,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226221/1.m3u8
+咪咕体育6223,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226223/1.m3u8
+咪咕体育6225,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226225/1.m3u8
+咪咕体育6227,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226227/1.m3u8
+咪咕体育6229,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226229/1.m3u8
+咪咕体育6231,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226231/1.m3u8
+咪咕体育6326,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226326/1.m3u8
+咪咕体育6328,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226328/1.m3u8
+咪咕体育6340,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226340/1.m3u8
+咪咕体育6351,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226351/1.m3u8
+咪咕体育6352,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226352/1.m3u8
+咪咕体育6355,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226355/1.m3u8
+咪咕体育6357,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226357/1.m3u8
+咪咕体育6359,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226359/1.m3u8
+咪咕体育6361,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226361/1.m3u8
+咪咕体育6367,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226367/1.m3u8
+咪咕体育6401,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226401/1.m3u8
+咪咕体育6403,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226403/1.m3u8
+咪咕体育6494,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226494/1.m3u8
+咪咕体育6496,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226496/1.m3u8
+咪咕体育6498,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226498/1.m3u8
+咪咕体育6500,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226500/1.m3u8
+咪咕体育6504,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226504/1.m3u8
+咪咕体育6506,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226506/1.m3u8
+咪咕体育6508,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226508/1.m3u8
+咪咕体育6591,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226591/1.m3u8
+咪咕体育6593,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226593/1.m3u8
+咪咕体育6595,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226595/1.m3u8
+咪咕体育6599,http://[2409:8087:74f1:21::12]/000000001000PLTV/88888888/224/3221226599/1.m3u8
+
+•咪咕「」,#genre#
+
+咪咕体育,http://120.196.232.33:8088/000000001001/PLTV/651/224/3221227678/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.19:8088/000000001001/PLTV/651/224/3221227827/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.19:8088/000000001001/PLTV/651/224/3221227831/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.19:8088/000000001001/PLTV/651/224/3221227835/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.33:8088/000000001001/PLTV/651/224/3221227839/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.19:8088/000000001001/PLTV/651/224/3221227843/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.31:8088/000000001001/PLTV/651/224/3221227847/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.35:8088/000000001001/PLTV/651/224/3221227849/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.25:8088/000000001001/PLTV/651/224/3221227851/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.39:8088/000000001001/PLTV/651/224/3221227855/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.41:8088/000000001001/PLTV/651/224/3221227856/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.35:8088/000000001001/PLTV/651/224/3221227870/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.47:8088/000000001001/PLTV/651/224/3221227874/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.27:8088/000000001001/PLTV/651/224/3221227875/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.43:8088/000000001001/PLTV/651/224/3221227877/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.23:8088/000000001001/PLTV/651/224/3221227878/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.23:8088/000000001001/PLTV/651/224/3221227881/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.25:8088/000000001001/PLTV/651/224/3221227882/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.21:8088/000000001001/PLTV/651/224/3221227884/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.19:8088/000000001001/PLTV/651/224/3221227885/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.29:8088/000000001001/PLTV/651/224/3221227886/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.19:8088/000000001001/PLTV/651/224/3221227888/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.19:8088/000000001001/PLTV/651/224/3221227889/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.35:8088/000000001001/PLTV/651/224/3221227890/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.19:8088/000000001001/PLTV/651/224/3221227892/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.19:8088/000000001001/PLTV/651/224/3221227893/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.45:8088/000000001001/PLTV/651/224/3221227894/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.35:8088/000000001001/PLTV/651/224/3221227896/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.21:8088/000000001001/PLTV/651/224/3221227897/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.43:8088/000000001001/PLTV/651/224/3221227898/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.47:8088/000000001001/PLTV/651/224/3221227900/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.33:8088/000000001001/PLTV/651/224/3221227901/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.23:8088/000000001001/PLTV/651/224/3221227904/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.29:8088/000000001001/PLTV/651/224/3221227905/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.23:8088/000000001001/PLTV/651/224/3221227906/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.37:8088/000000001001/PLTV/651/224/3221227908/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.37:8088/000000001001/PLTV/651/224/3221227912/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.19:8088/000000001001/PLTV/651/224/3221227918/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.27:8088/000000001001/PLTV/651/224/3221227922/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.27:8088/000000001001/PLTV/651/224/3221227926/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.27:8088/000000001001/PLTV/651/224/3221227930/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.27:8088/000000001001/PLTV/651/224/3221227933/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.41:8088/000000001001/PLTV/651/224/3221227934/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.39:8088/000000001001/PLTV/651/224/3221227936/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.39:8088/000000001001/PLTV/651/224/3221227937/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.33:8088/000000001001/PLTV/651/224/3221227938/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.41:8088/000000001001/PLTV/651/224/3221227940/1.m3u8?HlsProfileId=
+咪咕体育,http://120.196.232.41:8088/000000001001/PLTV/651/224/3221227944/1.m3u8?HlsProfileId=
+
+未知,http://120.196.232.21:8088/000000001001/PLTV/651/224/3221227479/1.m3u8?HlsProfileId=
+未知,http://120.196.232.21:8088/000000001001/PLTV/651/224/3221227502/1.m3u8?HlsProfileId=
+未知,http://120.196.232.33:8088/000000001001/PLTV/651/224/3221227506/1.m3u8?HlsProfileId=
+未知,http://120.196.232.37:8088/000000001001/PLTV/651/224/3221227544/1.m3u8?HlsProfileId=
+未知,http://120.196.232.29:8088/000000001001/PLTV/651/224/3221227553/1.m3u8?HlsProfileId=
+未知,http://120.196.232.35:8088/000000001001/PLTV/651/224/3221227656/1.m3u8?HlsProfileId=
+未知,http://120.196.232.45:8088/000000001001/PLTV/651/224/3221227803/1.m3u8?HlsProfileId=
+
+咪咕视频1,#genre#
+咪咕体育,http://111.13.111.242/000000001001/3000000010000000097/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000002019/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000002809/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000003915/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000004193/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000005180/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000005837/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000006077/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000006658/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000009788/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000010833/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000011297/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000011518/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000012558/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000012616/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000015470/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000015560/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000015686/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000017678/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000019839/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000021904/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000023434/1.m3u8?Contentid=1&HlsProfileId=
+全民热练,http://111.13.111.242/000000001001/3000000010000025380/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000010000027691/1.m3u8?Contentid=1&HlsProfileId=
+睛彩篮球,http://111.13.111.242/000000001001/3000000010000031669/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000001000005308/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000001000005969/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000001000007218/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000001000008001/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000001000008176/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000001000008379/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000001000010129/1.m3u8?Contentid=1&HlsProfileId=
+睛彩竞技,http://111.13.111.242/000000001001/3000000001000010948/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000001000028638/1.m3u8?Contentid=1&HlsProfileId=
+咪咕体育,http://111.13.111.242/000000001001/3000000001000031494/1.m3u8?Contentid=1&HlsProfileId=
+
+咪咕视频2,#genre#
+
+咪咕体育,http://39.134.135.82/000000001001/3000000010000000097/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000002019/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000002809/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000003915/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000004193/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000005837/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000006077/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000006658/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000009788/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000010833/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000011297/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000011518/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000012558/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000012616/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000015470/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000015560/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000015686/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000017678/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000019839/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000021904/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000023434/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000025380/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000027691/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000010000031669/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000001000005308/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000001000005969/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000001000007218/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000001000008001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000001000008176/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000001000008379/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000001000010129/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000001000010948/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000001000028638/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638livemode=1&stbId=3&HlsProfileId=
+咪咕体育,http://39.134.135.82/000000001001/3000000001000031494/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494livemode=1&stbId=3&HlsProfileId=
+
+•咪咕「全网」,#genre#
+咪咕直播 𝟙「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕直播 𝟚「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕直播 𝟛「IPV6」,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕直播 𝟜「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+咪咕直播4K Ⅰ「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+咪咕直播4K Ⅱ「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+咪咕直播 𝟙「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+咪咕直播 𝟚「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+咪咕直播 𝟛「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+咪咕直播 𝟜「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
+咪咕直播 𝟝「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
+咪咕直播 𝟞「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
+咪咕直播 𝟟「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
+咪咕直播 𝟠「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+咪咕直播 𝟡「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
+咪咕直播 𝟙𝟘「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
+咪咕直播 𝟙𝟙「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
+咪咕直播 𝟙𝟚「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
+咪咕直播 𝟙𝟛「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
+咪咕直播 𝟙𝟜「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
+咪咕直播 𝟙𝟝「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
+咪咕直播 𝟙𝟞「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
+咪咕直播 𝟙𝟟「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
+咪咕直播 𝟙𝟠「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
+咪咕直播 𝟙𝟡「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
+咪咕直播 𝟚𝟘「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
+咪咕直播 𝟚𝟙「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
+咪咕直播 𝟚𝟚「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
+咪咕直播 𝟚𝟛「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
+咪咕直播 𝟚𝟜「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
+咪咕直播 𝟚𝟝「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
+咪咕直播 𝟚𝟞「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
+咪咕直播 𝟚𝟟「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
+咪咕直播 𝟚𝟠「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
+咪咕直播 𝟚𝟡「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
+咪咕直播 𝟛𝟘「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
+咪咕直播 𝟛𝟙「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
+咪咕直播 𝟛𝟚「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
+咪咕直播 𝟛𝟛「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
+咪咕直播 𝟛𝟜「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=3
+咪咕直播 𝟛𝟝「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=3
+咪咕直播 𝟛𝟞「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=3
+咪咕直播 𝟛𝟟「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=3
+咪咕直播 𝟛𝟠「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3
+咪咕直播 𝟛𝟡「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
+咪咕直播 𝟜𝟘「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
+咪咕直播 𝟜𝟙「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3
+咪咕直播 𝟜𝟚「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3
+咪咕直播 𝟜𝟛「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
+咪咕直播 𝟜𝟜「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
+咪咕直播 𝟜𝟝「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
+
+IHOT-ipv6,#genre#
+爱喜剧,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
+爱科幻,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
+爱院线,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
+爱浪漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
+爱悬疑,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
+爱经典,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000037/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000037&IASHttpSessionId=OTT19019320240419154124000281
+爱谍战,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
+爱青春,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000041/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000041&IASHttpSessionId=OTT19019320240419154124000281
+爱历史,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
+爱科学,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
+爱幼教,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
+爱玩具,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
+爱电竞,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000054/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000054&IASHttpSessionId=OTT19019320240419154124000281
+爱赛车,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
+爱旅行,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281
+爱奇谈,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
+爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
+爱体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
 咪咕直播32,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226147/index.m3u8
 咪咕直播32,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕直播34,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226398/index.m3u8
