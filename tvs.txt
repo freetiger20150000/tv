@@ -1,5 +1,5 @@
-nan,#genre#
 港 台,#genre#
+马来新闻,https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u
 凤凰中文,http://124.230.56.165:55555/udp/239.76.253.135:9000
 凤凰资讯,http://124.230.56.165:55555/udp/239.76.253.134:9000
 凤凰中文,http://223.11.152.223:7777/udp/239.1.1.126:8126
